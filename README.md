@@ -36,7 +36,7 @@ Some I've used, some I'm learning ;)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilianodesu&langs_count=6&theme=chartreuse-dark&layout=donut-vertical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilianodesu&langs_count=6&theme=transparent&layout=donut-vertical&text_color=ffffff&title_color=ffffff&bg_color=000000" />
   </a>
 </p>
 
