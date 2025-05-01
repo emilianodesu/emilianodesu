@@ -18,7 +18,7 @@ I'm a current Data Science student @ IIMAS, UNAM
 
 ## Programming Languages and Technologies
 
-Some I've used, some I'm learning ;)
+I've used some, I'm learning some;)
 
 <p align="center">
   <a href="https://skillicons.dev">
