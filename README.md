@@ -1,56 +1,56 @@
-# Hi there 👋
+<div align="center">
+  <h1 align="center">嗨！I'm Emiliano and I build data systems =)</h1>
+  <p align="center">
+    <strong>Data Engineer | Distributed Systems, Cloud Architecture &amp; Machine Learning</strong><br>
+    <em>Analytics Engineer Intern @ Nu Bank México · Ex-Amazon SDE Intern · UNAM 🇲🇽 &amp; UTS 🇦🇺</em>
+  </p>
+  <p align="center">
+    <a href="https://linkedin.com/in/emilianodesu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://emilianodesu.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:cemh.fi@comunidad.unam.mx"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/kawarimidoll/typograssy">
-    <img src="https://typograssy.deno.dev/api?text=%E7%99%BE%E6%88%A6%E7%99%BE%E5%8B%9D&l0=000000&l1=ffffff&l2=ffffff&l3=ffffff&l4=ffffff&bg=000000" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c1/0c/cb/c10ccbb388de51fea235d2935af58e93.gif" />
-</p>
+### About Me
 
-I'm a current Data Science student @ IIMAS, UNAM
+- 🚀 Currently working as an **Analytics Engineer Intern at Nu Bank México**, contributing to the migration of legacy data systems into decentralized, domain-oriented architectures using **Databricks, Apache Spark, and Scala on AWS**, and building event-driven communications governance automation.
+- 🛠️ Former **SDE Intern at Amazon México**.
+- 🎓 Completed 5 semesters of **Computer Engineering** at **Facultad de Ingeniería, UNAM** and completed 100% of coursework in **Data Science** at **IIMAS, UNAM** .
+- 🇦🇺 Completed an international academic exchange at the **University of Technology Sydney (UTS)**.
+- 👨‍🏫 Former **Training Core Member & Instructor at SIAFI UNAM**, having authored the open-source Data Science & ML Handbook and personally delivered 50+ hours of technical instruction in Python, SQL, and PyTorch.
+- 🌐 Actively studying **Mandarin Chinese** (HSK 1) to support cross-cultural engineering collaboration.
 
-- Highly passionate about Computer Science and AI.
-- Eager to learn technologies such as Machine Learning and Natural Language Processing.
-- Always willing to improve my coding skills.
+---
 
-## Programming Languages and Technologies
+### Tech Stack & Tools
 
-I've used some, I'm learning some;)
+| Domain | Technologies |
+|---|---|
+| **Data Engineering & Big Data** | `Apache Spark` `PySpark` `Databricks` `Scala` `DuckDB` `PostgreSQL` `Data Mesh` `ETL/ELT` `Data Modeling` |
+| **Cloud & Platforms** | `AWS (S3, CloudWatch)` `Google Cloud (BigQuery, Cloud Storage)` `Microsoft Azure` `Docker` `CI/CD` `Linux CLI` |
+| **Programming Languages** | `Python (Advanced)` `SQL (Distributed / Relational)` `Java` `Scala` `C++` `Bash / Shell Scripting` |
+| **Machine Learning & AI** | `PyTorch` `Pandas` `NumPy` `Scikit-learn` `Stable-Baselines3` `Gymnasium` |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,arch,bash,c,cpp,python,django,docker,elasticsearch,git,github,java,latex,md,matlab,mysql,notion,postgres,powershell,r,regex,sqlite,sklearn,vscode&perline=8" />
-  </a>
-</p>
+---
 
-## Stats
+### Featured Engineering Projects
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emilianodesu&theme=high-contrast" />
-  </a>
-</p>
+#### [Large-Scale Graph Analytics with PySpark](https://github.com/emilianodesu/analisis-redes-pyspark)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilianodesu&langs_count=6&theme=transparent&layout=donut-vertical&text_color=ffffff&title_color=ffffff&bg_color=000000" />
-  </a>
-</p>
+Distributed graph analytics executing **HITS**, **PageRank**, and **Topic-Sensitive PageRank** on multi-million node datasets (Wikipedia, Spotify, HepPh) using PySpark. Optimized partition distribution, RDD caching, and state checkpointing to prevent memory spills on massive clusters.
 
-## Hobbies (what I really enjoy is)
+#### [End-to-End Containerized Weather Data Pipeline](https://github.com/emilianodesu)
 
-- Manga
-- Anime
-- Kendo
-- Meditation
-- Music
-- Movies
+Automated ETL pipeline packaged in Docker Compose. Ingests semi-structured meteorological data from REST APIs, validates schemas, and loads into an indexed PostgreSQL relational database with B-tree indices on station and timestamp keys.
 
-## Thanks for passing by =D
+#### [Auto-Encoding Variational Bayes (PyTorch Reproduction)](https://github.com/emilianodesu/auto-encoding-variational-bayes)
 
-<p align="center">
-  <img src="https://static.wixstatic.com/media/c44a69_ffcfd14aed5540948233eea095dea3c4~mv2.gif" />
-</p>
+Faithful reproduction of Kingma & Welling (2013) on MNIST in PyTorch. Features both MLP and CNN generative architectures, mathematically rigorous ELBO loss decomposition, KL annealing schedules, and quantitative Fréchet Inception Distance (FID) evaluation.
+
+---
+
+<div align="center">
+  <sub>Carlos Emiliano Mendoza Hernández · Let's connect on <a href="https://linkedin.com/in/emilianodesu">LinkedIn</a></sub>
+</div>
