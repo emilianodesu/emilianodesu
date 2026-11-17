@@ -51,12 +51,6 @@ Distributed graph analytics executing **HITS**, **PageRank**, and **Topic-Sensit
 #### [End-to-End Containerized Weather Data Pipeline](https://github.com/emilianodesu)
 Automated ETL pipeline packaged in Docker Compose. Ingests semi-structured meteorological data from REST APIs, validates schemas, and loads into an indexed PostgreSQL relational database with B-tree indices on station and timestamp keys.
 
-#### [Auto-Encoding Variational Bayes (PyTorch Reproduction)](https://github.com/emilianodesu/auto-encoding-variational-bayes)
-Faithful reproduction of Kingma & Welling (2013) on MNIST in PyTorch. Features both MLP and CNN generative architectures, mathematically rigorous ELBO loss decomposition, KL annealing schedules, and quantitative Fréchet Inception Distance (FID) evaluation.
-
-#### [Autonomous Agent with Curriculum Learning (VizDoom PPO)](https://github.com/emilianodesu/RLA2)
-Reinforcement learning system using Proximal Policy Optimization (PPO), reward shaping, and curriculum learning across complex 3D environments. Developed during UTS exchange program (Awarded High Distinction).
-
 ---
 
 <div align="center">
