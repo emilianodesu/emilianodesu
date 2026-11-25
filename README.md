@@ -19,7 +19,7 @@
 ### About Me
 
 - 🚀 Currently working as an **Analytics Engineer Intern at Nu Bank México**.
-- 🛠️ Former **SDE Intern at Amazon México (Devices Team)**.
+- 🛠️ Former **SDE Intern at Amazon México**.
 - 🎓 Completed 5 semesters of **Computer Engineering** at **Facultad de Ingeniería, UNAM** and completed 100% of coursework in **Data Science** at **IIMAS, UNAM**.
 - 🇦🇺 Completed an international academic exchange at the **University of Technology Sydney (UTS)**, achieving **High Distinction (HD)** in Reinforcement Learning, Image Processing & Pattern Recognition, and **Distinction (D)** in Machine Learning.
 - 👨‍🏫 Former **Training Core Member & Instructor at SIAFI UNAM**.
