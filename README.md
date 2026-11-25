@@ -2,7 +2,7 @@
   <h1 align="center">嗨！I'm Emiliano and I build distributed data & ML systems =)</h1>
   <p align="center">
     <strong>Junior Data Engineer & AI/ML Engineer | Distributed Systems, Cloud Architecture & Reliability</strong><br>
-    <em>Analytics Engineer Intern @ Nu Bank México · Ex-Amazon SDE Intern · UNAM 🇲🇽 (GPA 9.52) & UTS 🇦🇺</em>
+    <em>Analytics Engineer Intern @ Nu Bank México · Ex-Amazon SDE Intern · UNAM 🇲🇽 & UTS 🇦🇺</em>
   </p>
 
   <p align="center">
@@ -18,12 +18,11 @@
 
 ### About Me
 
-- 🚀 Currently working as an **Analytics Engineer Intern at Nu Bank México**, contributing to the migration of legacy monolithic data systems into decentralized, domain-oriented **Data Mesh** architectures using **Databricks, Apache Spark, and Scala on AWS**, and building event-driven communications governance automation.
-- 🛠️ Former **SDE Intern at Amazon México (Devices Team)**, applying **Spec-Driven Development (SDD)** with AI-assisted software engineering and exploring the technical design of developer CLI tooling for package version and build tracking.
-- 🎓 Completed 5 semesters of **Computer Engineering** at **Facultad de Ingeniería, UNAM** and completed 100% of coursework in **Data Science** at **IIMAS, UNAM** (**GPA 9.52 / 10.0**, degree in progress, immediate full-time work availability).
+- 🚀 Currently working as an **Analytics Engineer Intern at Nu Bank México**.
+- 🛠️ Former **SDE Intern at Amazon México (Devices Team)**.
+- 🎓 Completed 5 semesters of **Computer Engineering** at **Facultad de Ingeniería, UNAM** and completed 100% of coursework in **Data Science** at **IIMAS, UNAM**.
 - 🇦🇺 Completed an international academic exchange at the **University of Technology Sydney (UTS)**, achieving **High Distinction (HD)** in Reinforcement Learning, Image Processing & Pattern Recognition, and **Distinction (D)** in Machine Learning.
-- 👨‍🏫 Former **Training Core Member & Instructor at SIAFI UNAM**, having authored the open-source Data Science & ML Handbook and personally delivered 50+ hours of technical instruction in Python, SQL, and PyTorch.
-- 🌐 Actively studying **Mandarin Chinese** (HSK 1) to support cross-cultural engineering collaboration.
+- 👨‍🏫 Former **Training Core Member & Instructor at SIAFI UNAM**.
 
 ---
 
